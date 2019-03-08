@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+
+
+    <string-array name="android_versions">
+        <item>Android 1.5, Cupcake: April 27, 2009</item>
+        <item>Android 1.6, Donut: September 15, 2009</item>
+        <item>Android 2.0–2.1, Eclair: October 26, 2009 </item>
+        <item>Android 2.3–2.3.7, Gingerbread: December 6, 2010 </item>
+        <item>Android 3.0–3.2.6, Honeycomb: February 22, 2011</item>
+        <item>Android 4.0–4.0.4, Ice Cream Sandwich: October 18, 2011</item>
+        <item>Android 4.1–4.3.1, Jelly Bean: July 9, 2012</item>
+        <item>Android 4.4–4.4.4, KitKat: October 31, 2013</item>
+        <item>Android 5.0–5.1.1, Lollipop: November 12, 2014</item>
+        <item>Android 6.0–6.0.1, Marshmallow: October 5, 2015 </item>
+        <item>Android 7.0–7.1.2, Nougat: August 22, 2016</item>
+        <item>Android 8.0–8.1, Oreo: August 21, 2017</item>
+        <item>Android 9.0, Pie: August 6, 2018</item>
+    </string-array>
+</resources>
