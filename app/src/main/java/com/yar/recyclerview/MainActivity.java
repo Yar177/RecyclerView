@@ -26,4 +26,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, RecyclerListView.class);
         startActivity(intent);
     }
+
+    public void recyclerGridView(View view) {
+        Intent intent = new Intent(this, RecyclerGridView.class);
+        startActivity(intent);
+    }
 }
