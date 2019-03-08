@@ -2,7 +2,6 @@
     <string name="app_name">RecyclerView</string>
 
 
-
     <string-array name="android_versions">
         <item>Android 1.5, Cupcake: April 27, 2009</item>
         <item>Android 1.6, Donut: September 15, 2009</item>
