@@ -47,7 +47,7 @@ public class RecyclerGridAdapter extends RecyclerView.Adapter<RecyclerGridAdapte
         public GridViewHolder(@NonNull View itemView) {
             super(itemView);
             imageView = itemView.findViewById(R.id.ivAlbum);
-            textView = imageView.findViewById(R.id.tvAmbumTitle);
+            textView = itemView.findViewById(R.id.tvAmbumTitle);
         }
     }
 
